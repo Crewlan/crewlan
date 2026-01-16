@@ -1,5 +1,22 @@
-# 💫 About Me:
-Mobile Developer 📱<br>My name is Rodrigo and i work with mobile development and i currently live in Brazil<br>I've been working with the mobile area for 10 years, I've worked with Java for a long time, but I'm currently working with Flutter<br>
+# 👨‍💻 Mobile Engineer | Flutter • Swift • Kotlin
+
+[![São Paulo, Brazil](https://img.shields.io/badge/Location-S%C3%A3o%20Paulo-brightgreen)](https://www.google.com/maps/place/S%C3%A3o+Paulo)
+[![10+ years](https://img.shields.io/badge/Experience-10%2B%20years-blueviolet)](https://github.com/seuusuario)
+[![Flutter](https://img.shields.io/badge/Flutter-2018%E2%80%93present-orange)](https://flutter.dev)
+[![Swift](https://img.shields.io/badge/Swift-2024%E2%80%93present-blue)](https://developer.apple.com/swift/)
+
+---
+
+**10+ years crafting mobile experiences across iOS, Android & cross-platform development.**
+
+### 🛠️ Specialized in:
+- **Flutter (2018–present)** | Production apps at scale  
+- **Swift & iOS (2024–present)** | SwiftUI enthusiast  
+- **Kotlin & Android (2016–present)** | Clean Architecture advocate  
+- **ML/AI Integration** | Firebase • Remote Config • API Design  
+
+### 🚀 Current Focus
+Clean Architecture -  Dependency Injection (Hilt/Dagger) Jetpack Compose -  SwiftUI -  Cross-platform strategies
 
 
 ## 🌐 Socials:
