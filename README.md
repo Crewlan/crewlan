@@ -3,7 +3,7 @@
 [![São Paulo, Brazil](https://img.shields.io/badge/Location-S%C3%A3o%20Paulo-brightgreen)](https://www.google.com/maps/place/S%C3%A3o+Paulo)
 [![10+ years](https://img.shields.io/badge/Experience-10%2B%20years-blueviolet)](https://github.com/seuusuario)
 [![Flutter](https://img.shields.io/badge/Flutter-2018%E2%80%93present-orange)](https://flutter.dev)
-[![Swift](https://img.shields.io/badge/Swift-2024%E2%80%93present-blue)](https://developer.apple.com/swift/)
+[![Swift](https://img.shields.io/badge/Swift-2021%E2%80%93present-blue)](https://developer.apple.com/swift/)
 
 ---
 
