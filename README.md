@@ -11,7 +11,7 @@
 
 ### 🛠️ Specialized in:
 - **Flutter (2018–present)** | Production apps at scale  
-- **Swift & iOS (2024–present)** | SwiftUI enthusiast  
+- **Swift & iOS (2021–present)** | SwiftUI enthusiast  
 - **Kotlin & Android (2016–present)** | Clean Architecture advocate  
 - **ML/AI Integration** | Firebase • Remote Config • API Design  
 
